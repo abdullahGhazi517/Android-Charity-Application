@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198535212138",
+    "project_id": "tawfiq-the-food-donation-5713b",
+    "storage_bucket": "tawfiq-the-food-donation-5713b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198535212138:android:9c69e51b34f7a82c376e13",
+        "android_client_info": {
+          "package_name": "com.example.tawfiqthefooddonationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTktE1fUWOElS1uBgPuCw7A5WlNq4ucb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

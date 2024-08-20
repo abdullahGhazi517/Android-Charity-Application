@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".contact">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/DarkGreen">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="Contact Us"
+                android:textColor="@color/white"
+                android:textSize="27sp"
+                android:fontFamily="@font/bold" />
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/profile"
+            android:layout_width="300dp"
+            android:layout_height="250dp"
+            android:contentDescription="@string/contactxmlicon"
+            android:padding="15dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img_3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="78dp"
+            android:layout_marginBottom="5dp"
+            android:text="Enter Your Name"
+            android:fontFamily="@font/bold"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:autofillHints=""
+            android:background="@drawable/custom_input"
+            android:hint="Name"
+            android:inputType="text"
+            android:maxLength="30"
+            android:minHeight="48dp"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:textColorHint="#78909C" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="80dp"
+            android:layout_marginBottom="5dp"
+            android:text="Enter Your Email"
+            android:fontFamily="@font/bold"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:autofillHints=""
+            android:background="@drawable/custom_input"
+            android:hint="Email"
+            android:inputType="textEmailAddress"
+            android:maxLength="30"
+            android:minHeight="48dp"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:textColorHint="#78909C" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="65dp"
+            android:layout_marginBottom="5dp"
+            android:text="Enter Your Message"
+            android:fontFamily="@font/bold"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/message"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autofillHints=""
+            android:background="@drawable/custom_input"
+            android:hint="Message"
+            android:inputType="textLongMessage"
+            android:maxLength="70"
+            android:minHeight="48dp"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:textColorHint="#78909C" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/submit"
+            android:layout_width="180dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="4dp"
+            android:background="@drawable/rounded_button"
+            android:text="@string/submit"
+            android:textColor="@color/white"
+            android:fontFamily="@font/bold"
+            android:textSize="18sp" />
+
+
+    </LinearLayout>
+</ScrollView>
+

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/testbackground"
+    tools:context=".Donate">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:orientation="vertical"
+        android:padding="15dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/DarkGreen">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="Start your helping Journey"
+                android:textColor="@color/white"
+                android:textSize="24sp"
+                android:fontFamily="@font/bold" />
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/logoImageView"
+            android:layout_width="320dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="20dp"
+            android:scaleType="centerCrop"
+            android:contentDescription="@string/imagelogin"
+            android:src="@drawable/givedonation" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="75dp"
+            android:layout_marginBottom="8dp"
+            android:text="@string/enter_your_namedonate"
+            android:layout_marginStart="20dp"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:fontFamily="@font/bold" />
+
+        <EditText
+            android:id="@+id/editTextName_d"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:autofillHints=""
+            android:background="@drawable/custom_input"
+            android:hint="@string/your_name_donate_activity"
+            android:inputType="text"
+            android:layout_marginStart="20dp"
+            android:maxLength="40"
+            android:minHeight="50dp"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:textColorHint="#78909C" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="55dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginStart="20dp"
+            android:text="@string/enter_your_food_items_donate"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:fontFamily="@font/bold" />
+
+        <EditText
+            android:id="@+id/editTextFoodItems"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:autofillHints=""
+            android:background="@drawable/custom_input"
+            android:hint="@string/food_items"
+            android:layout_marginStart="20dp"
+            android:inputType="text"
+            android:maxLength="60"
+            android:minHeight="50dp"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:textColorHint="#78909C" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="40dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginStart="20dp"
+            android:text="@string/enter_your_phone_number_doante"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:fontFamily="@font/bold" />
+
+        <EditText
+            android:id="@+id/editTextPhoneNumber_d"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:autofillHints=""
+            android:background="@drawable/custom_input"
+            android:hint="@string/phone_number"
+            android:inputType="phone"
+            android:maxLength="15"
+            android:minHeight="48dp"
+            android:padding="5dp"
+            android:layout_marginStart="20dp"
+            android:textColor="@color/black"
+            android:textColorHint="#78909C" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="40dp"
+            android:layout_marginBottom="8dp"
+            android:text="Donation pickup address"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:layout_marginStart="20dp"
+            android:fontFamily="@font/bold" />
+
+        <EditText
+            android:id="@+id/editTextaddress"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="32dp"
+            android:autofillHints=""
+            android:background="@drawable/custom_input"
+            android:hint="Address"
+            android:inputType="text"
+            android:maxLength="60"
+            android:minHeight="48dp"
+            android:layout_marginStart="20dp"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:textColorHint="#78909C" />
+
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/buttonDonate"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="70dp"
+            android:background="@drawable/rounded_button"
+            android:text="@string/donate_donate_activity"
+            android:fontFamily="@font/bold"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+    </LinearLayout>
+</LinearLayout>
+
