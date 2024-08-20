@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_twitter.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/twitter.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_j.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/j.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_eye_closed.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/eye_closed.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_n.jpg.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/n.jpg"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_img_1.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/img_1.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_custom_input.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/custom_input.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_activity_contact.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/activity_contact.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_q.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/q.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_givecharity.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/givecharity.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_x.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/x.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_activity_nearbyngo.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/activity_nearbyngo.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_nav_view.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/nav_view.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_ngos.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/ngos.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_donationbkg.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/donationbkg.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_background_splash.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/background_splash.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/xml_backup_rules.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_fragment_main.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_v.jpg.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/v.jpg"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_m.jpg.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/m.jpg"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_r.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/r.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_y.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/y.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_contact1.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/contact1.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_logout.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/logout.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_s.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/s.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_img.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_p.jpg.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/p.jpg"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_diedforhunger.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/diedforhunger.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_ovelshaped.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/ovelshaped.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_eye_open.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/eye_open.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_activity_donor_request.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/activity_donor_request.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_password_ic.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/password_ic.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_button_enabled.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/button_enabled.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/menu_nav_menu.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/menu/nav_menu.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_activity_share.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/activity_share.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_donation.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/donation.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_whypakinhungerindex.jpg.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/whypakinhungerindex.jpg"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_activity_main.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_ic_name.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/ic_name.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_logoutdialog.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/logoutdialog.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_button_disabled.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/button_disabled.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_border.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/border.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_img_4.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/img_4.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_hungerindex.jpg.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/hungerindex.jpg"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_saylani.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/saylani.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_contactxml.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/contactxml.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_activity_why_to_donate.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/activity_why_to_donate.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_activity_drawer_header.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/activity_drawer_header.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_activity_about.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_g.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/g.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_kindifylogo.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/kindifylogo.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_border_selector.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/border_selector.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/raw_countdwon.json.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/raw/countdwon.json"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_usdonate.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/usdonate.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_aboutus.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/aboutus.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_linkedlnimg.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/linkedlnimg.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_file.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/file.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_fragment_media.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/fragment_media.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_chippa.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/chippa.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_activity_forget_password.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/activity_forget_password.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_testbackground.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/testbackground.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_custom_tab.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/custom_tab.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_img_5.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/img_5.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_alkhidmat.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/alkhidmat.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_donator.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/donator.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_custom_name_icon.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/custom_name_icon.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_kindify.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/kindify.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_u.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/u.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_sylanifoundation.jpg.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/sylanifoundation.jpg"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_ic_phone.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_edhifoundation.jpg.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/edhifoundation.jpg"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_fragment_charity.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/fragment_charity.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_activity_timer.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/activity_timer.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_receiveicon.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/receiveicon.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_afterfloodeffects.jpg.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/afterfloodeffects.jpg"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_activity_whom_to_donate.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/activity_whom_to_donate.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_activity_donate.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/activity_donate.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_ic_mail.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/ic_mail.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_jdcfoundation.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/jdcfoundation.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_skfoundation.jpg.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/skfoundation.jpg"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_fbimg.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/fbimg.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_ic_logo.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_h.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/h.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_foodinsecurity.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/foodinsecurity.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_i.jpg.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/i.jpg"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_activity_receive.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/activity_receive.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_password_ic_focus.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/password_ic_focus.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_o.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/o.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_activity_sign_in.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_illnessduetofoodinsicurity.jpg.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/illnessduetofoodinsicurity.jpg"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_ic_phone_focus.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/ic_phone_focus.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_splashscreen1.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/splashscreen1.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_custom_mail_icon.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/custom_mail_icon.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_jdc.jpg.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/jdc.jpg"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/font_bold.ttf.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/font/bold.ttf"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_custom_password_icon.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/custom_password_icon.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_l.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/l.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_donate.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/donate.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_round_rectangle.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/round_rectangle.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/font_montserrat_light.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/font/montserrat_light.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_w.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/w.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_t.jpg.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/t.jpg"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_foreground_color.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/foreground_color.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_ngoscreen.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/ngoscreen.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_ic_mail_focus.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/ic_mail_focus.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_z.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/z.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_img_3.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/img_3.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_share.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/share.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_givedonation.jpg.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/givedonation.jpg"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_activity_splash.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_donateicon.png.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/donateicon.png"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_ic_name_focus.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/ic_name_focus.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_custon_phone_icon.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/custon_phone_icon.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_rounded_button.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/rounded_button.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_whydonate.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/whydonate.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/layout_singlerow.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/layout/singlerow.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_k.jpg.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/k.jpg"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/drawable_whomdonate.xml.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/drawable/whomdonate.xml"
+    },
+    {
+        "merged": "com.example.tawfiqthefooddonationapp-debug-52:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tawfiqthefooddonationapp-main-54:/mipmap-xhdpi/ic_launcher_round.webp"
+    }
+]

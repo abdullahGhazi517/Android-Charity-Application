@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.tawfiqthefooddonationapp-mergeDebugResources-50:/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ghazi\\Downloads\\Kindify\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "2,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "58,16",
+                        "endColumns": "57,41",
+                        "endOffsets": "111,53"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,41",
+                        "endOffsets": "108,150"
+                    }
+                }
+            ]
+        }
+    ]
+}

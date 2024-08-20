@@ -1,0 +1,1065 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:2:1-76:12
+MERGED from [androidx.databinding:databinding-adapters:8.5.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b18dec6cad8ca347045affca1c6b00b5\transformed\databinding-adapters-8.5.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:8.5.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\28baa67038844f503d4e73e0b93dae96\transformed\databinding-runtime-8.5.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.firebaseui:firebase-ui-database:8.0.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\42978ed6e6497599f3e689ed5e9c0eb3\transformed\firebase-ui-database-8.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\41acd1797bee4ae15c413865fafaf7d6\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:17:1-75:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3fbfca3ead15c325536d36f116667aad\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\85461c0e401a8d8e1f902d74122e6697\transformed\play-services-auth-21.2.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9cfa557556a38a048344e2e8eb30de64\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\a559f8c57e8f5bc831620eb6ee39457d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\5062ccf28412822c9e1f29605528ac87\transformed\lottie-6.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\c92509faa46ede1b8011bc3bc47edb03\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7bca66c42845ead8314ab87eaf18eba4\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\dc9858416066a1b9cd570c82cae2bafe\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\868206ad23957506dc95d790aa3d7212\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:21.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7562343349a3e5a34a89c26cc4cd7eb8\transformed\play-services-location-21.3.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b1c7b2d49194941db98fa89794f2aab\transformed\firebase-storage-21.0.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8fd5088f2c0558907a7f05a0c4c9a3c4\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5564fb4b690ca3b9a7193ef97bf48c7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7c16d7ef54e5f28001b6bf34d28ac098\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9814a9f6470a87c90e4e44c1a47d6e7a\transformed\firebase-database-21.0.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\c5c62f0c9b3091fa046f01449e475d19\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d9f0d232f09da1c8f6eba66f2929af79\transformed\play-services-auth-base-18.0.10\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e5ccbf306c44747fbc8255f9e9b5f1ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\0fffcd02449af716f83e49c002ab8ac0\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\71b8840dab421527c7fad6362c18732a\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\bf395a4561bf7bcf408c8efb87506699\transformed\play-services-fido-20.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\27bde2fa42f742bc83e13c9fc56663bb\transformed\play-services-base-18.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-analytics:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d0501d29bf0a93f7780b85866580f60a\transformed\firebase-analytics-22.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:17:1-43:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f5a136065c62427d234ffc610e8f5231\transformed\firebase-installations-18.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b74f8fcc5e35798c960cad9093b55d2d\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d82fbc3483c9bea8408d8f172d180927\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\1beabcb562df6abc4bd07c96068523ee\transformed\recaptcha-18.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ba618a02475fd36fb8062bd59d2f3b3e\transformed\integrity-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6db4a1299fb92b0d469d6e22d488cd59\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b76076489991a5d3101d5afbd3fb7a5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b82cdf0c0f44ecc82712b13fb93d80a8\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:17:1-46:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\10612b45cf1eba9dac67edf1dcf031bd\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\909a694b682e57bd5b012ff6104770fa\transformed\play-services-measurement-sdk-22.0.2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\50148ee86f566b6819224f77401a98bd\transformed\play-services-measurement-impl-22.0.2\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\217b308d948496f35a4f60438579bba5\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\a46a3548b8ccfd1750f06e97132d884e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b9d7e91728233792942940e050b1f85d\transformed\loader-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9555dcef87109c4db458f84c68ebd2ae\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d08c10772d0f5cbd2dba4185eba96076\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ec2572370d8e8934e97c06c308d49c13\transformed\core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\c150a286ee14f9872cdf5668e947f8f4\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ee2d5b82845e4dab77efa9b28d897056\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9fb0fbc45e6a3eb98751e21d6c9e86bc\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8c8ead4e5fc49b96ba3669643f1d7bd6\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9d4b7aceb7972969f8ba6c6b9cf3a5dd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\5bd6184ab98c91ceee2bd5c000289f17\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ec25ff45d9f064cd4ffa212495b95951\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d4d653053dbd10c92642faa02afd59cd\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f175c407a2a535a819867520d5255ae6\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\caefe66c92786ec8e81823ff7bc92617\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\a8a7a22a79995549f880be8c5d73f721\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\478a2758fe0937684995ae9f4279983c\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\5cd3d6799208812c7d4b7d3ece73dde4\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6ae2df83031e8c1040c3742b1366fe0f\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8907ccbe34cbb096dc1c1f721cad3405\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
+MERGED from [com.firebaseui:firebase-ui-common:8.0.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\1b50fc2f33406dd41fbaf839f094a177\transformed\firebase-ui-common-8.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\699a02d2a7cb18c7d8d60e236624b235\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ed26e16b239bfc8afcee476bd234230a\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f1fa23e0420ad7ef829038e898155f6d\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5d00f7ecf8ce780f241ac3b1ba0c065\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8a3dd4bc2104768b03d4134a0431b3f1\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\97d11542cb4e7118463c7c21c80ce2b9\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.paging:paging-rxjava3:3.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6369c46fe52495e4c28c01f06fb84257\transformed\paging-rxjava3-3.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6462a4940ff3e12b262f8f1eff0bbf6f\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3524da5b2794e4b2a1e6cbb5be0915bd\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e393f453f457a2020d9c4e18989448bc\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\fa44c86640b8f8dce5b7ae423ee35f6b\transformed\play-services-measurement-sdk-api-22.0.2\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d8dec81d316bd3fffb9df53e1f7697c5\transformed\play-services-measurement-base-22.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\992726b45d2f200fd2e0cea82882ee53\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\2280b5ce3a6bef62fe6e9d9c25108d74\transformed\play-services-basement-18.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.5.7] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\4b6f6bda95647b67e6b59536791fae77\transformed\fragment-1.5.7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\5a5f269331c6f48ccbf88fc1734e378e\transformed\activity-1.9.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b8db064074cf7d92eafd69fbbf8242c5\transformed\lifecycle-viewmodel-savedstate-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8222dc5d693166cff5d54ef0ae6cbd46\transformed\lifecycle-livedata-core-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6eb78d3abf3ca9aba8c2b2ba912f31e6\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6e309ffa22fff3dc6f033770fc6b0c3d\transformed\lifecycle-viewmodel-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8e4d568b4e8ebddc7f073c3b1ce62bf2\transformed\lifecycle-livedata-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d85fbff59fae1809ccb78cead5bf19cf\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:8.5.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7d33b606dd6eb8c923a65232e7040486\transformed\viewbinding-8.5.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d7ec978745b424980dadcac8abcff5d9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\456ecbf9bdeb8109a3ba387cd5b8e1c1\transformed\firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\553c72e64e67e4240ca3cfac4ba5b4aa\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\13b55b767c3692cc1882a61e488bb76c\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\bc22388508fd3f822b3e27b86be0a150\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e72754dfad254397e6de2af86618e6cd\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\20887d012050a35ab8c7329a5887b440\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\1e041aad24dda3001e40cf11da939eb0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f901a19de732187642bc92f6962a409a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9dbffd32115a6d2b9e55c5da9a3c13aa\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\a0c4a8f6ab861faed362d85db85af301\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\c538ece6a345e0ba58e5c097d2439a14\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e358d9dd29bc23c77d3baef5ec1d4bee\transformed\googleid-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\97a30c3c7eb340d18235f2c1f8eb4cbb\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9ad7e952dc7006fd02283685909ff018\transformed\grpc-android-1.57.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f1734711735a2331dc367f14f49d5e76\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.firebaseui:firebase-ui-database:8.0.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\42978ed6e6497599f3e689ed5e9c0eb3\transformed\firebase-ui-database-8.0.1\AndroidManifest.xml:9:5-67
+MERGED from [com.firebaseui:firebase-ui-database:8.0.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\42978ed6e6497599f3e689ed5e9c0eb3\transformed\firebase-ui-database-8.0.1\AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b1c7b2d49194941db98fa89794f2aab\transformed\firebase-storage-21.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b1c7b2d49194941db98fa89794f2aab\transformed\firebase-storage-21.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5564fb4b690ca3b9a7193ef97bf48c7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5564fb4b690ca3b9a7193ef97bf48c7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9814a9f6470a87c90e4e44c1a47d6e7a\transformed\firebase-database-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9814a9f6470a87c90e4e44c1a47d6e7a\transformed\firebase-database-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f5a136065c62427d234ffc610e8f5231\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f5a136065c62427d234ffc610e8f5231\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\1beabcb562df6abc4bd07c96068523ee\transformed\recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\1beabcb562df6abc4bd07c96068523ee\transformed\recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\50148ee86f566b6819224f77401a98bd\transformed\play-services-measurement-impl-22.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\50148ee86f566b6819224f77401a98bd\transformed\play-services-measurement-impl-22.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\fa44c86640b8f8dce5b7ae423ee35f6b\transformed\play-services-measurement-sdk-api-22.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\fa44c86640b8f8dce5b7ae423ee35f6b\transformed\play-services-measurement-sdk-api-22.0.2\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:9:5-74:19
+INJECTED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:9:5-74:19
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\41acd1797bee4ae15c413865fafaf7d6\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\41acd1797bee4ae15c413865fafaf7d6\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:28:5-73:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\85461c0e401a8d8e1f902d74122e6697\transformed\play-services-auth-21.2.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\85461c0e401a8d8e1f902d74122e6697\transformed\play-services-auth-21.2.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9cfa557556a38a048344e2e8eb30de64\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9cfa557556a38a048344e2e8eb30de64\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\a559f8c57e8f5bc831620eb6ee39457d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\a559f8c57e8f5bc831620eb6ee39457d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\5062ccf28412822c9e1f29605528ac87\transformed\lottie-6.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\5062ccf28412822c9e1f29605528ac87\transformed\lottie-6.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:21.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7562343349a3e5a34a89c26cc4cd7eb8\transformed\play-services-location-21.3.0\AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-location:21.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7562343349a3e5a34a89c26cc4cd7eb8\transformed\play-services-location-21.3.0\AndroidManifest.xml:6:5-20
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b1c7b2d49194941db98fa89794f2aab\transformed\firebase-storage-21.0.0\AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b1c7b2d49194941db98fa89794f2aab\transformed\firebase-storage-21.0.0\AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8fd5088f2c0558907a7f05a0c4c9a3c4\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8fd5088f2c0558907a7f05a0c4c9a3c4\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5564fb4b690ca3b9a7193ef97bf48c7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5564fb4b690ca3b9a7193ef97bf48c7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7c16d7ef54e5f28001b6bf34d28ac098\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7c16d7ef54e5f28001b6bf34d28ac098\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9814a9f6470a87c90e4e44c1a47d6e7a\transformed\firebase-database-21.0.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9814a9f6470a87c90e4e44c1a47d6e7a\transformed\firebase-database-21.0.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e5ccbf306c44747fbc8255f9e9b5f1ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e5ccbf306c44747fbc8255f9e9b5f1ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\0fffcd02449af716f83e49c002ab8ac0\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\0fffcd02449af716f83e49c002ab8ac0\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\bf395a4561bf7bcf408c8efb87506699\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\bf395a4561bf7bcf408c8efb87506699\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\27bde2fa42f742bc83e13c9fc56663bb\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\27bde2fa42f742bc83e13c9fc56663bb\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.firebase:firebase-analytics:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d0501d29bf0a93f7780b85866580f60a\transformed\firebase-analytics-22.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d0501d29bf0a93f7780b85866580f60a\transformed\firebase-analytics-22.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f5a136065c62427d234ffc610e8f5231\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f5a136065c62427d234ffc610e8f5231\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b74f8fcc5e35798c960cad9093b55d2d\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b74f8fcc5e35798c960cad9093b55d2d\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d82fbc3483c9bea8408d8f172d180927\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d82fbc3483c9bea8408d8f172d180927\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ba618a02475fd36fb8062bd59d2f3b3e\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ba618a02475fd36fb8062bd59d2f3b3e\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\909a694b682e57bd5b012ff6104770fa\transformed\play-services-measurement-sdk-22.0.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\909a694b682e57bd5b012ff6104770fa\transformed\play-services-measurement-sdk-22.0.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\50148ee86f566b6819224f77401a98bd\transformed\play-services-measurement-impl-22.0.2\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\50148ee86f566b6819224f77401a98bd\transformed\play-services-measurement-impl-22.0.2\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\217b308d948496f35a4f60438579bba5\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\217b308d948496f35a4f60438579bba5\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d08c10772d0f5cbd2dba4185eba96076\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d08c10772d0f5cbd2dba4185eba96076\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ee2d5b82845e4dab77efa9b28d897056\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ee2d5b82845e4dab77efa9b28d897056\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8907ccbe34cbb096dc1c1f721cad3405\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8907ccbe34cbb096dc1c1f721cad3405\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5d00f7ecf8ce780f241ac3b1ba0c065\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5d00f7ecf8ce780f241ac3b1ba0c065\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3524da5b2794e4b2a1e6cbb5be0915bd\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3524da5b2794e4b2a1e6cbb5be0915bd\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e393f453f457a2020d9c4e18989448bc\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e393f453f457a2020d9c4e18989448bc\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d8dec81d316bd3fffb9df53e1f7697c5\transformed\play-services-measurement-base-22.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d8dec81d316bd3fffb9df53e1f7697c5\transformed\play-services-measurement-base-22.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\992726b45d2f200fd2e0cea82882ee53\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\992726b45d2f200fd2e0cea82882ee53\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\2280b5ce3a6bef62fe6e9d9c25108d74\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\2280b5ce3a6bef62fe6e9d9c25108d74\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\bc22388508fd3f822b3e27b86be0a150\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\bc22388508fd3f822b3e27b86be0a150\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\1e041aad24dda3001e40cf11da939eb0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\1e041aad24dda3001e40cf11da939eb0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8907ccbe34cbb096dc1c1f721cad3405\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:14:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:12:9-54
+	android:roundIcon
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:15:9-54
+	tools:targetApi
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:18:9-29
+	android:icon
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:17:9-62
+	android:dataExtractionRules
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:11:9-65
+activity#com.example.tawfiqthefooddonationapp.ForgetPassword
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:20:13-43
+activity#com.example.tawfiqthefooddonationapp.whomToDonate
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:23:13-41
+activity#com.example.tawfiqthefooddonationapp.whyToDonate
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:26:13-40
+activity#com.example.tawfiqthefooddonationapp.nearbyngo
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:28:9-30:40
+	android:exported
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:29:13-38
+activity#com.example.tawfiqthefooddonationapp.Timer
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:31:9-33:40
+	android:exported
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:32:13-34
+activity#com.example.tawfiqthefooddonationapp.donorRequest
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:35:13-41
+activity#com.example.tawfiqthefooddonationapp.Splash
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:37:9-45:20
+	android:exported
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:38:13-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:43:27-74
+activity#com.example.tawfiqthefooddonationapp.SignUp
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:46:9-48:40
+	android:exported
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:47:13-35
+activity#com.example.tawfiqthefooddonationapp.contact
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:49:9-51:40
+	android:exported
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:50:13-36
+activity#com.example.tawfiqthefooddonationapp.About
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:52:9-54:40
+	android:exported
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:53:13-34
+activity#com.example.tawfiqthefooddonationapp.Share
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:55:9-57:40
+	android:exported
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:57:13-37
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:56:13-34
+activity#com.example.tawfiqthefooddonationapp.Receive
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:58:9-60:40
+	android:exported
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:59:13-36
+activity#com.example.tawfiqthefooddonationapp.Donate
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:61:9-63:40
+	android:exported
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:62:13-35
+activity#com.example.tawfiqthefooddonationapp.MainActivity
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:64:9-66:39
+	android:exported
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:66:13-36
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:65:13-41
+activity#com.example.tawfiqthefooddonationapp.SignIn
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:67:9-69:39
+	android:exported
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:69:13-36
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:68:13-35
+meta-data#preloaded_fonts
+ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:71:9-73:57
+	android:resource
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:73:13-54
+	android:name
+		ADDED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml:72:13-43
+uses-sdk
+INJECTED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:8.5.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b18dec6cad8ca347045affca1c6b00b5\transformed\databinding-adapters-8.5.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:8.5.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b18dec6cad8ca347045affca1c6b00b5\transformed\databinding-adapters-8.5.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.5.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\28baa67038844f503d4e73e0b93dae96\transformed\databinding-runtime-8.5.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.5.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\28baa67038844f503d4e73e0b93dae96\transformed\databinding-runtime-8.5.1\AndroidManifest.xml:5:5-44
+MERGED from [com.firebaseui:firebase-ui-database:8.0.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\42978ed6e6497599f3e689ed5e9c0eb3\transformed\firebase-ui-database-8.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebaseui:firebase-ui-database:8.0.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\42978ed6e6497599f3e689ed5e9c0eb3\transformed\firebase-ui-database-8.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\41acd1797bee4ae15c413865fafaf7d6\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\41acd1797bee4ae15c413865fafaf7d6\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:21:5-23:151
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3fbfca3ead15c325536d36f116667aad\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3fbfca3ead15c325536d36f116667aad\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\85461c0e401a8d8e1f902d74122e6697\transformed\play-services-auth-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\85461c0e401a8d8e1f902d74122e6697\transformed\play-services-auth-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9cfa557556a38a048344e2e8eb30de64\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9cfa557556a38a048344e2e8eb30de64\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\a559f8c57e8f5bc831620eb6ee39457d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\a559f8c57e8f5bc831620eb6ee39457d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\5062ccf28412822c9e1f29605528ac87\transformed\lottie-6.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\5062ccf28412822c9e1f29605528ac87\transformed\lottie-6.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\c92509faa46ede1b8011bc3bc47edb03\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\c92509faa46ede1b8011bc3bc47edb03\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7bca66c42845ead8314ab87eaf18eba4\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7bca66c42845ead8314ab87eaf18eba4\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\dc9858416066a1b9cd570c82cae2bafe\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\dc9858416066a1b9cd570c82cae2bafe\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\868206ad23957506dc95d790aa3d7212\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\868206ad23957506dc95d790aa3d7212\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:21.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7562343349a3e5a34a89c26cc4cd7eb8\transformed\play-services-location-21.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-location:21.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7562343349a3e5a34a89c26cc4cd7eb8\transformed\play-services-location-21.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b1c7b2d49194941db98fa89794f2aab\transformed\firebase-storage-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b1c7b2d49194941db98fa89794f2aab\transformed\firebase-storage-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8fd5088f2c0558907a7f05a0c4c9a3c4\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8fd5088f2c0558907a7f05a0c4c9a3c4\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5564fb4b690ca3b9a7193ef97bf48c7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5564fb4b690ca3b9a7193ef97bf48c7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7c16d7ef54e5f28001b6bf34d28ac098\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7c16d7ef54e5f28001b6bf34d28ac098\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9814a9f6470a87c90e4e44c1a47d6e7a\transformed\firebase-database-21.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9814a9f6470a87c90e4e44c1a47d6e7a\transformed\firebase-database-21.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\c5c62f0c9b3091fa046f01449e475d19\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\c5c62f0c9b3091fa046f01449e475d19\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d9f0d232f09da1c8f6eba66f2929af79\transformed\play-services-auth-base-18.0.10\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d9f0d232f09da1c8f6eba66f2929af79\transformed\play-services-auth-base-18.0.10\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e5ccbf306c44747fbc8255f9e9b5f1ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e5ccbf306c44747fbc8255f9e9b5f1ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\0fffcd02449af716f83e49c002ab8ac0\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\0fffcd02449af716f83e49c002ab8ac0\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\71b8840dab421527c7fad6362c18732a\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\71b8840dab421527c7fad6362c18732a\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\bf395a4561bf7bcf408c8efb87506699\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\bf395a4561bf7bcf408c8efb87506699\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\27bde2fa42f742bc83e13c9fc56663bb\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\27bde2fa42f742bc83e13c9fc56663bb\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d0501d29bf0a93f7780b85866580f60a\transformed\firebase-analytics-22.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d0501d29bf0a93f7780b85866580f60a\transformed\firebase-analytics-22.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f5a136065c62427d234ffc610e8f5231\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f5a136065c62427d234ffc610e8f5231\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b74f8fcc5e35798c960cad9093b55d2d\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b74f8fcc5e35798c960cad9093b55d2d\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d82fbc3483c9bea8408d8f172d180927\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d82fbc3483c9bea8408d8f172d180927\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\1beabcb562df6abc4bd07c96068523ee\transformed\recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\1beabcb562df6abc4bd07c96068523ee\transformed\recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ba618a02475fd36fb8062bd59d2f3b3e\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ba618a02475fd36fb8062bd59d2f3b3e\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6db4a1299fb92b0d469d6e22d488cd59\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6db4a1299fb92b0d469d6e22d488cd59\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b76076489991a5d3101d5afbd3fb7a5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b76076489991a5d3101d5afbd3fb7a5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b82cdf0c0f44ecc82712b13fb93d80a8\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b82cdf0c0f44ecc82712b13fb93d80a8\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\10612b45cf1eba9dac67edf1dcf031bd\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\10612b45cf1eba9dac67edf1dcf031bd\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\909a694b682e57bd5b012ff6104770fa\transformed\play-services-measurement-sdk-22.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\909a694b682e57bd5b012ff6104770fa\transformed\play-services-measurement-sdk-22.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\50148ee86f566b6819224f77401a98bd\transformed\play-services-measurement-impl-22.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\50148ee86f566b6819224f77401a98bd\transformed\play-services-measurement-impl-22.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\217b308d948496f35a4f60438579bba5\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\217b308d948496f35a4f60438579bba5\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\a46a3548b8ccfd1750f06e97132d884e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\a46a3548b8ccfd1750f06e97132d884e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b9d7e91728233792942940e050b1f85d\transformed\loader-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b9d7e91728233792942940e050b1f85d\transformed\loader-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9555dcef87109c4db458f84c68ebd2ae\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9555dcef87109c4db458f84c68ebd2ae\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d08c10772d0f5cbd2dba4185eba96076\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d08c10772d0f5cbd2dba4185eba96076\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ec2572370d8e8934e97c06c308d49c13\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ec2572370d8e8934e97c06c308d49c13\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\c150a286ee14f9872cdf5668e947f8f4\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\c150a286ee14f9872cdf5668e947f8f4\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ee2d5b82845e4dab77efa9b28d897056\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ee2d5b82845e4dab77efa9b28d897056\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9fb0fbc45e6a3eb98751e21d6c9e86bc\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9fb0fbc45e6a3eb98751e21d6c9e86bc\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8c8ead4e5fc49b96ba3669643f1d7bd6\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8c8ead4e5fc49b96ba3669643f1d7bd6\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9d4b7aceb7972969f8ba6c6b9cf3a5dd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9d4b7aceb7972969f8ba6c6b9cf3a5dd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\5bd6184ab98c91ceee2bd5c000289f17\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\5bd6184ab98c91ceee2bd5c000289f17\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ec25ff45d9f064cd4ffa212495b95951\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ec25ff45d9f064cd4ffa212495b95951\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d4d653053dbd10c92642faa02afd59cd\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d4d653053dbd10c92642faa02afd59cd\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f175c407a2a535a819867520d5255ae6\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f175c407a2a535a819867520d5255ae6\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\caefe66c92786ec8e81823ff7bc92617\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\caefe66c92786ec8e81823ff7bc92617\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\a8a7a22a79995549f880be8c5d73f721\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\a8a7a22a79995549f880be8c5d73f721\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\478a2758fe0937684995ae9f4279983c\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\478a2758fe0937684995ae9f4279983c\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\5cd3d6799208812c7d4b7d3ece73dde4\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\5cd3d6799208812c7d4b7d3ece73dde4\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6ae2df83031e8c1040c3742b1366fe0f\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6ae2df83031e8c1040c3742b1366fe0f\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8907ccbe34cbb096dc1c1f721cad3405\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8907ccbe34cbb096dc1c1f721cad3405\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-common:8.0.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\1b50fc2f33406dd41fbaf839f094a177\transformed\firebase-ui-common-8.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebaseui:firebase-ui-common:8.0.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\1b50fc2f33406dd41fbaf839f094a177\transformed\firebase-ui-common-8.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\699a02d2a7cb18c7d8d60e236624b235\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\699a02d2a7cb18c7d8d60e236624b235\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ed26e16b239bfc8afcee476bd234230a\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ed26e16b239bfc8afcee476bd234230a\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f1fa23e0420ad7ef829038e898155f6d\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f1fa23e0420ad7ef829038e898155f6d\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5d00f7ecf8ce780f241ac3b1ba0c065\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5d00f7ecf8ce780f241ac3b1ba0c065\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8a3dd4bc2104768b03d4134a0431b3f1\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8a3dd4bc2104768b03d4134a0431b3f1\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\97d11542cb4e7118463c7c21c80ce2b9\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\97d11542cb4e7118463c7c21c80ce2b9\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-rxjava3:3.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6369c46fe52495e4c28c01f06fb84257\transformed\paging-rxjava3-3.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-rxjava3:3.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6369c46fe52495e4c28c01f06fb84257\transformed\paging-rxjava3-3.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6462a4940ff3e12b262f8f1eff0bbf6f\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6462a4940ff3e12b262f8f1eff0bbf6f\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3524da5b2794e4b2a1e6cbb5be0915bd\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3524da5b2794e4b2a1e6cbb5be0915bd\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e393f453f457a2020d9c4e18989448bc\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e393f453f457a2020d9c4e18989448bc\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\fa44c86640b8f8dce5b7ae423ee35f6b\transformed\play-services-measurement-sdk-api-22.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\fa44c86640b8f8dce5b7ae423ee35f6b\transformed\play-services-measurement-sdk-api-22.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d8dec81d316bd3fffb9df53e1f7697c5\transformed\play-services-measurement-base-22.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d8dec81d316bd3fffb9df53e1f7697c5\transformed\play-services-measurement-base-22.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\992726b45d2f200fd2e0cea82882ee53\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\992726b45d2f200fd2e0cea82882ee53\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\2280b5ce3a6bef62fe6e9d9c25108d74\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\2280b5ce3a6bef62fe6e9d9c25108d74\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.5.7] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\4b6f6bda95647b67e6b59536791fae77\transformed\fragment-1.5.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.7] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\4b6f6bda95647b67e6b59536791fae77\transformed\fragment-1.5.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\5a5f269331c6f48ccbf88fc1734e378e\transformed\activity-1.9.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\5a5f269331c6f48ccbf88fc1734e378e\transformed\activity-1.9.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b8db064074cf7d92eafd69fbbf8242c5\transformed\lifecycle-viewmodel-savedstate-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b8db064074cf7d92eafd69fbbf8242c5\transformed\lifecycle-viewmodel-savedstate-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8222dc5d693166cff5d54ef0ae6cbd46\transformed\lifecycle-livedata-core-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8222dc5d693166cff5d54ef0ae6cbd46\transformed\lifecycle-livedata-core-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6eb78d3abf3ca9aba8c2b2ba912f31e6\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6eb78d3abf3ca9aba8c2b2ba912f31e6\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6e309ffa22fff3dc6f033770fc6b0c3d\transformed\lifecycle-viewmodel-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\6e309ffa22fff3dc6f033770fc6b0c3d\transformed\lifecycle-viewmodel-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8e4d568b4e8ebddc7f073c3b1ce62bf2\transformed\lifecycle-livedata-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8e4d568b4e8ebddc7f073c3b1ce62bf2\transformed\lifecycle-livedata-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d85fbff59fae1809ccb78cead5bf19cf\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d85fbff59fae1809ccb78cead5bf19cf\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:8.5.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7d33b606dd6eb8c923a65232e7040486\transformed\viewbinding-8.5.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.5.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7d33b606dd6eb8c923a65232e7040486\transformed\viewbinding-8.5.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d7ec978745b424980dadcac8abcff5d9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d7ec978745b424980dadcac8abcff5d9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\456ecbf9bdeb8109a3ba387cd5b8e1c1\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\456ecbf9bdeb8109a3ba387cd5b8e1c1\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\553c72e64e67e4240ca3cfac4ba5b4aa\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\553c72e64e67e4240ca3cfac4ba5b4aa\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\13b55b767c3692cc1882a61e488bb76c\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\13b55b767c3692cc1882a61e488bb76c\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\bc22388508fd3f822b3e27b86be0a150\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\bc22388508fd3f822b3e27b86be0a150\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e72754dfad254397e6de2af86618e6cd\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e72754dfad254397e6de2af86618e6cd\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\20887d012050a35ab8c7329a5887b440\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\20887d012050a35ab8c7329a5887b440\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\1e041aad24dda3001e40cf11da939eb0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\1e041aad24dda3001e40cf11da939eb0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f901a19de732187642bc92f6962a409a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f901a19de732187642bc92f6962a409a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9dbffd32115a6d2b9e55c5da9a3c13aa\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9dbffd32115a6d2b9e55c5da9a3c13aa\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\a0c4a8f6ab861faed362d85db85af301\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\a0c4a8f6ab861faed362d85db85af301\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\c538ece6a345e0ba58e5c097d2439a14\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\c538ece6a345e0ba58e5c097d2439a14\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e358d9dd29bc23c77d3baef5ec1d4bee\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e358d9dd29bc23c77d3baef5ec1d4bee\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\97a30c3c7eb340d18235f2c1f8eb4cbb\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\97a30c3c7eb340d18235f2c1f8eb4cbb\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9ad7e952dc7006fd02283685909ff018\transformed\grpc-android-1.57.2\AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9ad7e952dc7006fd02283685909ff018\transformed\grpc-android-1.57.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f1734711735a2331dc367f14f49d5e76\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f1734711735a2331dc367f14f49d5e76\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ghazi\Downloads\Kindify\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\41acd1797bee4ae15c413865fafaf7d6\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b1c7b2d49194941db98fa89794f2aab\transformed\firebase-storage-21.0.0\AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b1c7b2d49194941db98fa89794f2aab\transformed\firebase-storage-21.0.0\AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8fd5088f2c0558907a7f05a0c4c9a3c4\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8fd5088f2c0558907a7f05a0c4c9a3c4\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5564fb4b690ca3b9a7193ef97bf48c7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5564fb4b690ca3b9a7193ef97bf48c7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7c16d7ef54e5f28001b6bf34d28ac098\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7c16d7ef54e5f28001b6bf34d28ac098\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9814a9f6470a87c90e4e44c1a47d6e7a\transformed\firebase-database-21.0.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9814a9f6470a87c90e4e44c1a47d6e7a\transformed\firebase-database-21.0.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e5ccbf306c44747fbc8255f9e9b5f1ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e5ccbf306c44747fbc8255f9e9b5f1ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f5a136065c62427d234ffc610e8f5231\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f5a136065c62427d234ffc610e8f5231\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b74f8fcc5e35798c960cad9093b55d2d\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b74f8fcc5e35798c960cad9093b55d2d\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\41acd1797bee4ae15c413865fafaf7d6\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\41acd1797bee4ae15c413865fafaf7d6\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthLegacyRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\41acd1797bee4ae15c413865fafaf7d6\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\41acd1797bee4ae15c413865fafaf7d6\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\41acd1797bee4ae15c413865fafaf7d6\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:12:17-119
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b1c7b2d49194941db98fa89794f2aab\transformed\firebase-storage-21.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b1c7b2d49194941db98fa89794f2aab\transformed\firebase-storage-21.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5564fb4b690ca3b9a7193ef97bf48c7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5564fb4b690ca3b9a7193ef97bf48c7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9814a9f6470a87c90e4e44c1a47d6e7a\transformed\firebase-database-21.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9814a9f6470a87c90e4e44c1a47d6e7a\transformed\firebase-database-21.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f5a136065c62427d234ffc610e8f5231\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f5a136065c62427d234ffc610e8f5231\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\1beabcb562df6abc4bd07c96068523ee\transformed\recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\1beabcb562df6abc4bd07c96068523ee\transformed\recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\50148ee86f566b6819224f77401a98bd\transformed\play-services-measurement-impl-22.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\50148ee86f566b6819224f77401a98bd\transformed\play-services-measurement-impl-22.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\fa44c86640b8f8dce5b7ae423ee35f6b\transformed\play-services-measurement-sdk-api-22.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\fa44c86640b8f8dce5b7ae423ee35f6b\transformed\play-services-measurement-sdk-api-22.0.2\AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9ad7e952dc7006fd02283685909ff018\transformed\grpc-android-1.57.2\AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9ad7e952dc7006fd02283685909ff018\transformed\grpc-android-1.57.2\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e3b621bf98a06576c583cae35a4c7581\transformed\firebase-auth-23.0.0\AndroidManifest.xml:70:17-109
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8f04ae6c8407a3dd5bb19566def0f890\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\85461c0e401a8d8e1f902d74122e6697\transformed\play-services-auth-21.2.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\85461c0e401a8d8e1f902d74122e6697\transformed\play-services-auth-21.2.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\85461c0e401a8d8e1f902d74122e6697\transformed\play-services-auth-21.2.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\85461c0e401a8d8e1f902d74122e6697\transformed\play-services-auth-21.2.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\85461c0e401a8d8e1f902d74122e6697\transformed\play-services-auth-21.2.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\85461c0e401a8d8e1f902d74122e6697\transformed\play-services-auth-21.2.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\85461c0e401a8d8e1f902d74122e6697\transformed\play-services-auth-21.2.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\85461c0e401a8d8e1f902d74122e6697\transformed\play-services-auth-21.2.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\85461c0e401a8d8e1f902d74122e6697\transformed\play-services-auth-21.2.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\85461c0e401a8d8e1f902d74122e6697\transformed\play-services-auth-21.2.0\AndroidManifest.xml:34:13-89
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b34e85a97a0527f4f5fceb5d276b4ea4\transformed\play-services-maps-19.0.0\AndroidManifest.xml:40:13-50
+meta-data#com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b1c7b2d49194941db98fa89794f2aab\transformed\firebase-storage-21.0.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b1c7b2d49194941db98fa89794f2aab\transformed\firebase-storage-21.0.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b1c7b2d49194941db98fa89794f2aab\transformed\firebase-storage-21.0.0\AndroidManifest.xml:31:17-118
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b1c7b2d49194941db98fa89794f2aab\transformed\firebase-storage-21.0.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b1c7b2d49194941db98fa89794f2aab\transformed\firebase-storage-21.0.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\3b1c7b2d49194941db98fa89794f2aab\transformed\firebase-storage-21.0.0\AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreLegacyRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8fd5088f2c0558907a7f05a0c4c9a3c4\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8fd5088f2c0558907a7f05a0c4c9a3c4\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8fd5088f2c0558907a7f05a0c4c9a3c4\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:13:17-129
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5564fb4b690ca3b9a7193ef97bf48c7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5564fb4b690ca3b9a7193ef97bf48c7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5564fb4b690ca3b9a7193ef97bf48c7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5564fb4b690ca3b9a7193ef97bf48c7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5564fb4b690ca3b9a7193ef97bf48c7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5564fb4b690ca3b9a7193ef97bf48c7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseLegacyRegistrar
+ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7c16d7ef54e5f28001b6bf34d28ac098\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7c16d7ef54e5f28001b6bf34d28ac098\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\7c16d7ef54e5f28001b6bf34d28ac098\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:13:17-127
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9814a9f6470a87c90e4e44c1a47d6e7a\transformed\firebase-database-21.0.0\AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9814a9f6470a87c90e4e44c1a47d6e7a\transformed\firebase-database-21.0.0\AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9814a9f6470a87c90e4e44c1a47d6e7a\transformed\firebase-database-21.0.0\AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9814a9f6470a87c90e4e44c1a47d6e7a\transformed\firebase-database-21.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9814a9f6470a87c90e4e44c1a47d6e7a\transformed\firebase-database-21.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9814a9f6470a87c90e4e44c1a47d6e7a\transformed\firebase-database-21.0.0\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e5ccbf306c44747fbc8255f9e9b5f1ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e5ccbf306c44747fbc8255f9e9b5f1ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e5ccbf306c44747fbc8255f9e9b5f1ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:26:17-120
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e5ccbf306c44747fbc8255f9e9b5f1ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e5ccbf306c44747fbc8255f9e9b5f1ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e5ccbf306c44747fbc8255f9e9b5f1ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:29:17-117
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\27bde2fa42f742bc83e13c9fc56663bb\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\27bde2fa42f742bc83e13c9fc56663bb\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\27bde2fa42f742bc83e13c9fc56663bb\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\27bde2fa42f742bc83e13c9fc56663bb\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\50148ee86f566b6819224f77401a98bd\transformed\play-services-measurement-impl-22.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\50148ee86f566b6819224f77401a98bd\transformed\play-services-measurement-impl-22.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\fa44c86640b8f8dce5b7ae423ee35f6b\transformed\play-services-measurement-sdk-api-22.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\fa44c86640b8f8dce5b7ae423ee35f6b\transformed\play-services-measurement-sdk-api-22.0.2\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\50148ee86f566b6819224f77401a98bd\transformed\play-services-measurement-impl-22.0.2\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\50148ee86f566b6819224f77401a98bd\transformed\play-services-measurement-impl-22.0.2\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e393f453f457a2020d9c4e18989448bc\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\e393f453f457a2020d9c4e18989448bc\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\fa44c86640b8f8dce5b7ae423ee35f6b\transformed\play-services-measurement-sdk-api-22.0.2\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\fa44c86640b8f8dce5b7ae423ee35f6b\transformed\play-services-measurement-sdk-api-22.0.2\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\fa44c86640b8f8dce5b7ae423ee35f6b\transformed\play-services-measurement-sdk-api-22.0.2\AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\fa44c86640b8f8dce5b7ae423ee35f6b\transformed\play-services-measurement-sdk-api-22.0.2\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\fa44c86640b8f8dce5b7ae423ee35f6b\transformed\play-services-measurement-sdk-api-22.0.2\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\fa44c86640b8f8dce5b7ae423ee35f6b\transformed\play-services-measurement-sdk-api-22.0.2\AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:27:22-79
+property#android.adservices.AD_SERVICES_CONFIG
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:30:9-32:61
+	android:resource
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:31:13-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:37:13-39:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\277604934132c26796197abfc8609be2\transformed\play-services-measurement-api-22.0.2\AndroidManifest.xml:38:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f5a136065c62427d234ffc610e8f5231\transformed\firebase-installations-18.0.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f5a136065c62427d234ffc610e8f5231\transformed\firebase-installations-18.0.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f5a136065c62427d234ffc610e8f5231\transformed\firebase-installations-18.0.0\AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f5a136065c62427d234ffc610e8f5231\transformed\firebase-installations-18.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f5a136065c62427d234ffc610e8f5231\transformed\firebase-installations-18.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\f5a136065c62427d234ffc610e8f5231\transformed\firebase-installations-18.0.0\AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b74f8fcc5e35798c960cad9093b55d2d\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b74f8fcc5e35798c960cad9093b55d2d\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b74f8fcc5e35798c960cad9093b55d2d\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d1e5386ff9c7f4803ec31f17a333744c\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\1beabcb562df6abc4bd07c96068523ee\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\1beabcb562df6abc4bd07c96068523ee\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:22-95
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\50148ee86f566b6819224f77401a98bd\transformed\play-services-measurement-impl-22.0.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\50148ee86f566b6819224f77401a98bd\transformed\play-services-measurement-impl-22.0.2\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\92f397bacbaf7e21f057c5a8f4e197f6\transformed\play-services-measurement-22.0.2\AndroidManifest.xml:40:13-87
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d08c10772d0f5cbd2dba4185eba96076\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d08c10772d0f5cbd2dba4185eba96076\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\d08c10772d0f5cbd2dba4185eba96076\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:24:13-50
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ee2d5b82845e4dab77efa9b28d897056\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5d00f7ecf8ce780f241ac3b1ba0c065\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5d00f7ecf8ce780f241ac3b1ba0c065\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\bc22388508fd3f822b3e27b86be0a150\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\bc22388508fd3f822b3e27b86be0a150\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ee2d5b82845e4dab77efa9b28d897056\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ee2d5b82845e4dab77efa9b28d897056\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ee2d5b82845e4dab77efa9b28d897056\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ee2d5b82845e4dab77efa9b28d897056\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ee2d5b82845e4dab77efa9b28d897056\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ee2d5b82845e4dab77efa9b28d897056\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\ee2d5b82845e4dab77efa9b28d897056\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8907ccbe34cbb096dc1c1f721cad3405\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8907ccbe34cbb096dc1c1f721cad3405\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8907ccbe34cbb096dc1c1f721cad3405\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+permission#com.example.tawfiqthefooddonationapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8907ccbe34cbb096dc1c1f721cad3405\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8907ccbe34cbb096dc1c1f721cad3405\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8907ccbe34cbb096dc1c1f721cad3405\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8907ccbe34cbb096dc1c1f721cad3405\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8907ccbe34cbb096dc1c1f721cad3405\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.tawfiqthefooddonationapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8907ccbe34cbb096dc1c1f721cad3405\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\8907ccbe34cbb096dc1c1f721cad3405\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5d00f7ecf8ce780f241ac3b1ba0c065\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5d00f7ecf8ce780f241ac3b1ba0c065\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\b5d00f7ecf8ce780f241ac3b1ba0c065\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\2280b5ce3a6bef62fe6e9d9c25108d74\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\2280b5ce3a6bef62fe6e9d9c25108d74\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\2280b5ce3a6bef62fe6e9d9c25108d74\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ghazi\Downloads\Compressed\LoginUI-Android-master\caches\transforms-4\9caf71eca1b31e4c000b976a97f1cba8\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
